@@ -1,3 +1,8 @@
 {
-  "singleQuote": true
+  "useTabs": false,
+  "tabWidth": 2,
+  "eslintIntagration": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "endOfLine": "lf"
 }
